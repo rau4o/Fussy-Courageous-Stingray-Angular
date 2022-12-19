@@ -7,7 +7,7 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['home.component.css'],
 })
 export class Home {
-  raw0lag: string = ' '
+  rawcdy7: string = ' '
 
   constructor(private title: Title, private meta: Meta) {
     this.title.setTitle('Fussy Courageous Stingray')
